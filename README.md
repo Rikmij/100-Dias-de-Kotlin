@@ -13,9 +13,10 @@ El proyecto consiste en dedicar durante 100 días un rato al menos a estudiar Ko
 Este proyecto no va a acabar nunca. Incluso si quieres participar el año que viene, dentro de 2 o 3, puedes unirte al [server de Mouredev](https://discord.com/invite/mouredev), hacer comunidad y apuntarte. Nunca es tarde para aprender
 
 ## Recursos
-- [Documentación oficial de Kotlin] (https://kotlinlang.org/docs/home.html)
-- Para algunas bases, el repositorio de [jaennova de Kotlin] (https://github.com/jaennova/kotlin), donde vienen algunas bases con explicación Y EJERCICIOS (muy importante, pues lo aprendido hay que ponerlo en práctica)
+- [Documentación oficial de Kotlin](https://kotlinlang.org/docs/home.html)
+- Para algunas bases, el repositorio de [jaennova de Kotlin](https://github.com/jaennova/kotlin), donde vienen algunas bases con explicación Y EJERCICIOS (muy importante, pues lo aprendido hay que ponerlo en práctica)
 - Los recursos que se vayan pasando por el grupo de estudio del server (se irán complementando aquí, pero poder verlos en primera persona es un puntazo. No dudéis en uniros)
+
 
 ## IMPORTANTE: NO ES UNA COMPETICIÓN
 QUEREMOS DEJAR CLARO QUE ESTO NO ES UNA COMPETICIÓN. PUEDES ESTUDIAR CUANDO TE CONVENGA DURANTE AL MENOS 1 HORA AL DÍA. AVANZA A TU PROPIO RITMO, SIN PRESIONES.
