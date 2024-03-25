@@ -79,7 +79,8 @@ fun main() {
     //Arrays
     val arrayNames = arrayOf("Antonio", "Beatriz", "Carlos")
     var arrayNums = arrayOf(100, 200, 300, 400)
-    /*Puedes añadir todos lso que quieras, pero del mismo tipo. Si es un Array de Strings,
+    /*
+    Puedes añadir todos los que quieras, pero del mismo tipo. Si es un Array de Strings,
     todos los elementos deben ser strings, y si son números, todos números
      */
     arrayNums += 500
