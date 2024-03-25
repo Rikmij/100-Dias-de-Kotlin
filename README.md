@@ -18,5 +18,5 @@ Este proyecto no va a acabar nunca. Incluso si quieres participar el año que vi
 - Los recursos que se vayan pasando por el grupo de estudio del server (se irán complementando aquí, pero poder verlos en primera persona es un puntazo. No dudéis en uniros)
 
 ## IMPORTANTE: NO ES UNA COMPETICIÓN
-## Queremos dejar claro que esto no es una competición. Puedes estudiar cuando te convenga durante al menos 1 hora al día. Avanza a tu propio ritmo, sin presiones.
-## No todos aprendemos de la misma manera, así que no te compares con otros. Ve poco a poco y apóyate en tus compañeros y grupos de estudio.
+QUEREMOS DEJAR CLARO QUE ESTO NO ES UNA COMPETICIÓN. PUEDES ESTUDIAR CUANDO TE CONVENGA DURANTE AL MENOS 1 HORA AL DÍA. AVANZA A TU PROPIO RITMO, SIN PRESIONES.
+NO TODOS APRENDEMOS DE LA MISMA MANERA, ASÍ QUE NO TE COMPARES CON OTROS. VE POCO A POCO Y APÓYATE EN TUS COMPAÑEROS Y GRUPOS DE ESTUDIO.
